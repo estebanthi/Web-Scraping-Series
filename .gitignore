@@ -1,3 +1,4 @@
 .idea
 *.pyc
 chromedriver.exe
+config.yml
